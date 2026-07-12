@@ -1,5 +1,5 @@
 # FIFA-WorldCup-2026-Prediction-Model
-Here is only the **README.md** content (without extra explanation):
+
 
 ````markdown
 # FIFA World Cup 2026 Match Outcome Predictor 🏆
