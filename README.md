@@ -95,6 +95,21 @@ Data used includes:
 Since no single dataset contained all required features, multiple CSV files were collected, cleaned, merged, and validated before being used for machine learning.
 
 ---
+## Contributors
+
+This project was developed collaboratively by:
+
+- **Homaira Mohammadi**
+- **Wolanga Jalalzai**
+
+---
+
+## Disclaimer
+
+This project was built for educational and research purposes to explore machine learning techniques in sports analytics.
+
+The predictions are probabilistic estimates and should **not** be interpreted as guarantees or used as betting advice.
+---
 
 ## Running the Project
 
