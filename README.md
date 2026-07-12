@@ -60,9 +60,9 @@ The main objectives were:
 
 | Team | Probability |
 |------|------------:|
-| 🇫🇷 France | **59%** |
-| 🇦🇷 Argentina | **23%** |
-| 🇪🇸 Spain | **13%** |
+| 🇫🇷 France | **59.3%** |
+| 🇦🇷 Argentina | **23.1%** |
+| 🇪🇸 Spain | **12.5%** |
 | 🏴 England | **5%** |
 
 ---
