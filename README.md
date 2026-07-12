@@ -106,7 +106,8 @@ This project was developed collaboratively by:
 
 ## Disclaimer
 
-This project was built for educational and research purposes to explore machine learning techniques in sports analytics.
+This project was built for educational and research purposes and mostly build for fun to explore how machine learning works in real world.
+
 
 The predictions are probabilistic estimates and should **not** be interpreted as guarantees or used as betting advice.
 ---
