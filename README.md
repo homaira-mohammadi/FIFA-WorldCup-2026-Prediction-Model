@@ -1,4 +1,4 @@
-# FIFA-WorldCup-2026-Prediction-Model 🏆
+# FIFA-World Cup-2026-Prediction-Model 🏆
 
 A machine learning project that predicts **Win / Draw / Loss** outcomes for FIFA World Cup matches. The models were trained on 96 years of FIFA World Cup history (1930–2022) and evaluated using the ongoing 2026 FIFA World Cup.
 
