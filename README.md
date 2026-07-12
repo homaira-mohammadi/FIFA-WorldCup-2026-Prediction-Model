@@ -112,6 +112,16 @@ This project was built for educational and research purposes and mostly build fo
 The predictions are probabilistic estimates and should **not** be interpreted as guarantees or used as betting advice.
 ---
 
+## Project Showcase 📸
+
+You can view screenshots, results, and project updates shared on LinkedIn by the contributors:
+
+- **Homaira Mohammadi**: https://www.linkedin.com/in/homairamohammadi/
+- **Wolanga Jalalzai**: https://www.linkedin.com/in/wolanga-jalalzai-24a1a1217?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- 
+The LinkedIn posts showcase the model predictions, tournament simulation results, and highlights from the development process.
+-----
+
 ## Running the Project
 
 ### 1. Clone the repository
@@ -121,10 +131,3 @@ git clone <https://github.com/homaira-mohammadi/FIFA-World-Cup-2026-Prediction-M
 
 ---
 
-## Project Showcase 📸
-
-You can view screenshots, results, and project updates shared on LinkedIn by the contributors:
-
-- **Homaira Mohammadi**: https://www.linkedin.com/in/homairamohammadi/
-- **Wolanga Jalalzai**: https://www.linkedin.com/in/wolanga-jalalzai-24a1a1217?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-The LinkedIn posts showcase the model predictions, tournament simulation results, and highlights from the development process.
